@@ -16,12 +16,13 @@ Items screen again with a toast saying Order successful.
 
 * install the necessary packages in the root directory of your React application. <br>
 npm install
+<be>
+*** To start the React app, run: <br>
+npm start
 <br>
-* To start a JSON server with your db.json file on port 8000, run: <br>
+** To start a JSON server with your db.json file on port 8000, run: <br>
 json-server src/db.json --port 8000 <br>
 http://localhost:8000/users <br>
 http://localhost:8000/items <br>
 http://localhost:8000/carts <br>
 http://localhost:8000/orders <br>
-* To start the React app, run: <br>\
-npm start
